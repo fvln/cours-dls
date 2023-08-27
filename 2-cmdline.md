@@ -1,10 +1,3 @@
----
-title: Découverte de la ligne de commande
-separator: xxx
-verticalSeparator: ---
-theme: night
----
-
 ## Découverte de la ligne de commande
  
 ### `$`

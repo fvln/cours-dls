@@ -16,7 +16,7 @@ revealOptions:
 ---
 
 
-## Administration Linux avancée
+# Administration Linux avancée
 
 Pôle sup de La Salle
 

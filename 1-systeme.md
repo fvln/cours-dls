@@ -1,10 +1,3 @@
----
-title: Découverte du système Linux
-separator: xxx
-verticalSeparator: ---
-theme: night
----
-
 ## Découverte du système
  
 Pôle sup de La Salle
