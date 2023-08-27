@@ -25,8 +25,7 @@ jobs:
           npm install --no-optional reveal-md
           mkdir build
           cp -r img build/
-          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build slides.md
-          cp custom.css build/custom.css
+          ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --assets-dir build --static build slides.md
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
