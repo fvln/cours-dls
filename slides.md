@@ -10,9 +10,26 @@ revealOptions:
   slideNumber: false
   transition: 'slide'
   backgroundTransition: 'fade'
+  width: 1800
+  height: 1000
+  center: true
 ---
 
 
-# Administration Linux avancée
+## Administration Linux avancée
+
+Pôle sup de La Salle
+
+Florent Vuillemin
+
+xxx
 
 {{0-introduction.md}}
+
+xxx
+
+{{1-systeme.md}}
+
+xxx
+
+{{2-cmdline.md}}

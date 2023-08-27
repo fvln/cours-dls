@@ -1,12 +1,4 @@
-## Administration Linux avancée
- 
-Pôle sup de La Salle
-
-Florent Vuillemin
-
-xxx
-
-### Introduction
+## Introduction
 
 ---
 
@@ -81,7 +73,7 @@ SÉCURITÉ INFORMATIQUE
 
 #### Programme
 
-📌 https://gist.github.com/fvln/864f37413d91c430daea800a6cf358d3
+📌 https://gist.github.com/fvln/
 
 - Ratio : 10% de cours / 90% de TP
 
