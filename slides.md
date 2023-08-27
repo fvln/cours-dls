@@ -3,7 +3,6 @@ title: Administration Linux avancée
 separator: xxx
 verticalSeparator: ---
 theme: solarized
-highlight-theme: monokai
 css: custom.css
 revealOptions:
   controls: false
