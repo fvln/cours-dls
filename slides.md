@@ -1,7 +1,7 @@
 ---
-title: reveal-md deployed to gh-pages
-separator: <!--s-->
-verticalSeparator: <!--v-->
+title: Administration Linux avancée
+separator: xxx
+verticalSeparator: ---
 theme: solarized
 highlight-theme: monokai
 css: custom.css
@@ -12,8 +12,7 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
-# reveal-md & github-pages
 
-{{1_getStarted.md}}
-{{2_writing.md}}
-{{3_extras.md}}
+# Administration Linux avancée
+
+{{0-introduction.md}}
