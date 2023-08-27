@@ -1,8 +1,8 @@
-## Introduction
+### Introduction
 
 ---
 
-#### Qui suis-je ?
+### Qui suis-je ?
 
 Florent Vuillemin – florent@fvln.fr
 
@@ -19,7 +19,7 @@ Développeur depuis 2005
 
 ---
 
-### La formation
+#### La formation
 
 <div id="left">
 
