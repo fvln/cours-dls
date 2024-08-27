@@ -15,7 +15,7 @@ Développeur depuis 2005
 
 - 2 modules au pôle sup de La Salle :
   - BSI : Administration Linux
-  - MSI1 : Sécurité IOT
+  - MSI1 : ~~Sécurité IOT~~ Programmation système
 
 ---
 
@@ -80,8 +80,11 @@ SÉCURITÉ INFORMATIQUE
 - Peut-être une session de culture générale sécurité
 
 - **Notes**
-    - S1 : QCM et TP noté
-    - S2 : mini projet en milieu de semestre
+    - S1 : QCM
+    - S2 : TP noté
+
+- **Livrable**
+    - Mini projet scripting
 
 ---
 
@@ -161,6 +164,5 @@ SÉCURITÉ INFORMATIQUE
 ☐ Quelle est votre entreprise ?
 
 ☐ Quel est l'objet de votre alternance ?
-
 
 </div>
